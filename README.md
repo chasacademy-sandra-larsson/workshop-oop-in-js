@@ -1,6 +1,6 @@
 ## Workshop: OOP för en Javascriptutvecklare
 
-### 1. Uppvärmning: Skriv en klass för en VirtualPet 🐾 
+### 1. 🐾 Uppvärmning: Skriv en klass för en VirtualPet  
 
 Den ska ha egenskaper för:
 * name
@@ -16,7 +16,7 @@ Den ska ha metoder för:
 
 
 
-### 2. Överblick OOP 🎮
+### 2. 🎮 Överblick OOP 
 
 Ni ska Vibekoda ett enkelt plattformsspel med AntiGravity och Gemini 3 (eller annan frivillig AI-miljö). Fokusera på ett någrra effektiva promptar för att få en bra resultat. Själklart ska spelet använda OOP och dess 4 principer som programmeringsparadigm.
 
@@ -31,7 +31,7 @@ När ni har fått ett bra resultat analysera den genererade koden och diskutera 
     * Inkapsling
     * Polymorphism
 
-### 3. OOP Poker 🃏 
+### 3. 🃏 OOP Poker  
 
 Jobba i grupp eller enskilt med denna uppgift: [OOP Poker](https://github.com/chasacademy-sandra-larsson/js--oop-poker)
     
