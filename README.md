@@ -18,7 +18,7 @@ Den ska ha metoder för:
 
 ### 2. 🎮 Överblick OOP 
 
-Ni ska Vibekoda ett enkelt plattformsspel med AntiGravity och Gemini 3 (eller annan frivillig AI-miljö). Fokusera på ett någrra effektiva promptar för att få en bra resultat. Själklart ska spelet använda OOP och dess 4 principer som programmeringsparadigm.
+Ni ska vibekoda ett enkelt plattformsspel med AntiGravity och Gemini 3 (eller annan frivillig AI-miljö). Fokusera på någrra effektiva promptar för att få en bra resultat. Själklart ska spelet använda OOP och dess 4 principer som programmeringsparadigm.
 
 När ni har fått ett bra resultat analysera den genererade koden och diskutera i gruppen:
 
